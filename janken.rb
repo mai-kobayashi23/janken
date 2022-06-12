@@ -73,4 +73,5 @@ def result
     end
 end
 
+
 janken
